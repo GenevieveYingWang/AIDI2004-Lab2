@@ -15,6 +15,6 @@ Diagnosis: The target variable indicating whether the tumor is malignant or beni
 Features: Numerical values representing various characteristics of cell nuclei, such as radius, texture, perimeter, area, smoothness, compactness, concavity, symmetry, fractal dimension, etc.
 Data Quality: The dataset is considered high-quality, as it has been preprocessed and cleaned. However, it's always a good practice to perform exploratory data analysis (EDA) to check for any missing values or inconsistencies in the data.
 
-Source: The dataset is publicly available and can be accessed from the UCI Machine Learning Repository at the following URL: Breast Cancer Wisconsin (Diagnostic) Dataset
+Source: The dataset is publicly available and can be accessed from the UCI Machine Learning Repository at the following URL: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 
